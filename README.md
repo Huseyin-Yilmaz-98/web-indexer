@@ -19,40 +19,40 @@ Proje.pdf file contains the project assignment description (in Turkish) and Rapo
 Screenshots:
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/0.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/0.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/1.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/1.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/2.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/2.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/3.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/3.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/4.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/4.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/5.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/5.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/6.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/6.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/7.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/7.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/8.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/8.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/9.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/9.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/10.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/10.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/11.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/11.jpg?raw=true)
 
 
-![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/master/screenshots/12.jpg?raw=true)
+![](https://github.com/Huseyin-Yilmaz-98/web-indexer/blob/main/screenshots/12.jpg?raw=true)
