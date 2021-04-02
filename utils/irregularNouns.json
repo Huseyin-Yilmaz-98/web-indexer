@@ -1,0 +1,58 @@
+[
+    {
+        "singular": "man",
+        "plural": "men"
+    },
+    {
+        "singular": "woman",
+        "plural": "women"
+    },
+    {
+        "singular": "foot",
+        "plural": "feet"
+    },
+    {
+        "singular": "mouse",
+        "plural": "mice"
+    },
+    {
+        "singular": "child",
+        "plural": "children"
+    },
+    {
+        "singular": "goose",
+        "plural": "geese"
+    },
+    {
+        "singular": "person",
+        "plural": "people"
+    },
+    {
+        "singular": "tooth",
+        "plural": "teeth"
+    },
+    {
+        "singular": "louse",
+        "plural": "lice"
+    },
+    {
+        "singular": "penny",
+        "plural": "pence"
+    },
+    {
+        "singular": "index",
+        "plural": "indices"
+    },
+    {
+        "singular": "matrix",
+        "plural": "matrices"
+    },
+    {
+        "singular": "vertex",
+        "plural": "vertices"
+    },
+    {
+        "singular": "appendix",
+        "plural": "appendices"
+    }
+]

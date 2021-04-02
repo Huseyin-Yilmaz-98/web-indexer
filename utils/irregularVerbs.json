@@ -1,0 +1,787 @@
+[
+    {
+        "infinitive": "be",
+        "conjugatedForms": [
+            "be",
+            "was",
+            "were",
+            "been"
+        ]
+    },
+    {
+        "infinitive": "beat",
+        "conjugatedForms": [
+            "beat",
+            "beat",
+            "beaten"
+        ]
+    },
+    {
+        "infinitive": "become",
+        "conjugatedForms": [
+            "become",
+            "became",
+            "become"
+        ]
+    },
+    {
+        "infinitive": "begin",
+        "conjugatedForms": [
+            "begin",
+            "began",
+            "begun"
+        ]
+    },
+    {
+        "infinitive": "bet",
+        "conjugatedForms": [
+            "bet",
+            "bet",
+            "bet"
+        ]
+    },
+    {
+        "infinitive": "blow",
+        "conjugatedForms": [
+            "blow",
+            "blew",
+            "blown"
+        ]
+    },
+    {
+        "infinitive": "break",
+        "conjugatedForms": [
+            "break",
+            "broke",
+            "broken"
+        ]
+    },
+    {
+        "infinitive": "bring",
+        "conjugatedForms": [
+            "bring",
+            "brought",
+            "brought"
+        ]
+    },
+    {
+        "infinitive": "build",
+        "conjugatedForms": [
+            "build",
+            "built",
+            "built"
+        ]
+    },
+    {
+        "infinitive": "burst",
+        "conjugatedForms": [
+            "burst",
+            "burst",
+            "burst"
+        ]
+    },
+    {
+        "infinitive": "buy",
+        "conjugatedForms": [
+            "buy",
+            "bought",
+            "bought"
+        ]
+    },
+    {
+        "infinitive": "catch",
+        "conjugatedForms": [
+            "catch",
+            "caught",
+            "caught"
+        ]
+    },
+    {
+        "infinitive": "choose",
+        "conjugatedForms": [
+            "choose",
+            "chose",
+            "chosen"
+        ]
+    },
+    {
+        "infinitive": "come",
+        "conjugatedForms": [
+            "come",
+            "came",
+            "come"
+        ]
+    },
+    {
+        "infinitive": "cost",
+        "conjugatedForms": [
+            "cost",
+            "cost",
+            "cost"
+        ]
+    },
+    {
+        "infinitive": "cut",
+        "conjugatedForms": [
+            "cut",
+            "cut",
+            "cut"
+        ]
+    },
+    {
+        "infinitive": "deal",
+        "conjugatedForms": [
+            "deal",
+            "dealt",
+            "dealt"
+        ]
+    },
+    {
+        "infinitive": "do",
+        "conjugatedForms": [
+            "do",
+            "did",
+            "done"
+        ]
+    },
+    {
+        "infinitive": "draw",
+        "conjugatedForms": [
+            "draw",
+            "drew",
+            "drawn"
+        ]
+    },
+    {
+        "infinitive": "drink",
+        "conjugatedForms": [
+            "drink",
+            "drank",
+            "drunk"
+        ]
+    },
+    {
+        "infinitive": "drive",
+        "conjugatedForms": [
+            "drive",
+            "drove",
+            "driven"
+        ]
+    },
+    {
+        "infinitive": "eat",
+        "conjugatedForms": [
+            "eat",
+            "ate",
+            "eaten"
+        ]
+    },
+    {
+        "infinitive": "fall",
+        "conjugatedForms": [
+            "fall",
+            "fell",
+            "fallen"
+        ]
+    },
+    {
+        "infinitive": "feed",
+        "conjugatedForms": [
+            "feed",
+            "fed",
+            "fed"
+        ]
+    },
+    {
+        "infinitive": "feel",
+        "conjugatedForms": [
+            "feel",
+            "felt",
+            "felt"
+        ]
+    },
+    {
+        "infinitive": "fight",
+        "conjugatedForms": [
+            "fight",
+            "fought",
+            "fought"
+        ]
+    },
+    {
+        "infinitive": "find",
+        "conjugatedForms": [
+            "find",
+            "found",
+            "found"
+        ]
+    },
+    {
+        "infinitive": "fly",
+        "conjugatedForms": [
+            "fly",
+            "flew",
+            "flown"
+        ]
+    },
+    {
+        "infinitive": "forget",
+        "conjugatedForms": [
+            "forget",
+            "forgot",
+            "forgotten"
+        ]
+    },
+    {
+        "infinitive": "freeze",
+        "conjugatedForms": [
+            "freeze",
+            "froze",
+            "frozen"
+        ]
+    },
+    {
+        "infinitive": "get",
+        "conjugatedForms": [
+            "get",
+            "got",
+            "got, gotten "
+        ]
+    },
+    {
+        "infinitive": "give",
+        "conjugatedForms": [
+            "give",
+            "gave",
+            "given"
+        ]
+    },
+    {
+        "infinitive": "go",
+        "conjugatedForms": [
+            "go",
+            "went",
+            "gone"
+        ]
+    },
+    {
+        "infinitive": "grow",
+        "conjugatedForms": [
+            "grow",
+            "grew",
+            "grown"
+        ]
+    },
+    {
+        "infinitive": "hang",
+        "conjugatedForms": [
+            "hang",
+            "hung",
+            "hung"
+        ]
+    },
+    {
+        "infinitive": "have",
+        "conjugatedForms": [
+            "have",
+            "had",
+            "had"
+        ]
+    },
+    {
+        "infinitive": "hear",
+        "conjugatedForms": [
+            "hear",
+            "heard",
+            "heard"
+        ]
+    },
+    {
+        "infinitive": "hide",
+        "conjugatedForms": [
+            "hide",
+            "hid",
+            "hidden"
+        ]
+    },
+    {
+        "infinitive": "hit",
+        "conjugatedForms": [
+            "hit",
+            "hit",
+            "hit"
+        ]
+    },
+    {
+        "infinitive": "hold",
+        "conjugatedForms": [
+            "hold",
+            "held",
+            "held"
+        ]
+    },
+    {
+        "infinitive": "hurt",
+        "conjugatedForms": [
+            "hurt",
+            "hurt",
+            "hurt"
+        ]
+    },
+    {
+        "infinitive": "keep",
+        "conjugatedForms": [
+            "keep",
+            "kept",
+            "kept"
+        ]
+    },
+    {
+        "infinitive": "know",
+        "conjugatedForms": [
+            "know",
+            "knew",
+            "known"
+        ]
+    },
+    {
+        "infinitive": "lay",
+        "conjugatedForms": [
+            "lay",
+            "laid",
+            "laid"
+        ]
+    },
+    {
+        "infinitive": "lead",
+        "conjugatedForms": [
+            "lead",
+            "led",
+            "led"
+        ]
+    },
+    {
+        "infinitive": "leave",
+        "conjugatedForms": [
+            "leave",
+            "left",
+            "left"
+        ]
+    },
+    {
+        "infinitive": "lend",
+        "conjugatedForms": [
+            "lend",
+            "lent",
+            "lent"
+        ]
+    },
+    {
+        "infinitive": "let",
+        "conjugatedForms": [
+            "let",
+            "let",
+            "let"
+        ]
+    },
+    {
+        "infinitive": "lie",
+        "conjugatedForms": [
+            "lie",
+            "lay",
+            "lain"
+        ]
+    },
+    {
+        "infinitive": "light",
+        "conjugatedForms": [
+            "light",
+            "lit",
+            "lit"
+        ]
+    },
+    {
+        "infinitive": "lose",
+        "conjugatedForms": [
+            "lose",
+            "lost",
+            "lost"
+        ]
+    },
+    {
+        "infinitive": "make",
+        "conjugatedForms": [
+            "make",
+            "made",
+            "made"
+        ]
+    },
+    {
+        "infinitive": "mean",
+        "conjugatedForms": [
+            "mean",
+            "meant",
+            "meant"
+        ]
+    },
+    {
+        "infinitive": "meet",
+        "conjugatedForms": [
+            "meet",
+            "met",
+            "met"
+        ]
+    },
+    {
+        "infinitive": "pay",
+        "conjugatedForms": [
+            "pay",
+            "paid",
+            "paid"
+        ]
+    },
+    {
+        "infinitive": "put",
+        "conjugatedForms": [
+            "put",
+            "put",
+            "put"
+        ]
+    },
+    {
+        "infinitive": "read",
+        "conjugatedForms": [
+            "read",
+            "read",
+            "read"
+        ]
+    },
+    {
+        "infinitive": "ride",
+        "conjugatedForms": [
+            "ride",
+            "rode",
+            "ridden"
+        ]
+    },
+    {
+        "infinitive": "ring",
+        "conjugatedForms": [
+            "ring",
+            "rang",
+            "rung"
+        ]
+    },
+    {
+        "infinitive": "rise",
+        "conjugatedForms": [
+            "rise",
+            "rose",
+            "risen"
+        ]
+    },
+    {
+        "infinitive": "run",
+        "conjugatedForms": [
+            "run",
+            "ran",
+            "run"
+        ]
+    },
+    {
+        "infinitive": "say",
+        "conjugatedForms": [
+            "say",
+            "said",
+            "said"
+        ]
+    },
+    {
+        "infinitive": "see",
+        "conjugatedForms": [
+            "see",
+            "saw",
+            "seen"
+        ]
+    },
+    {
+        "infinitive": "sell",
+        "conjugatedForms": [
+            "sell",
+            "sold",
+            "sold"
+        ]
+    },
+    {
+        "infinitive": "send",
+        "conjugatedForms": [
+            "send",
+            "sent",
+            "sent"
+        ]
+    },
+    {
+        "infinitive": "set",
+        "conjugatedForms": [
+            "set",
+            "set",
+            "set"
+        ]
+    },
+    {
+        "infinitive": "shake",
+        "conjugatedForms": [
+            "shake",
+            "shook",
+            "shaken"
+        ]
+    },
+    {
+        "infinitive": "steal",
+        "conjugatedForms": [
+            "steal",
+            "stole",
+            "stolen"
+        ]
+    },
+    {
+        "infinitive": "shine",
+        "conjugatedForms": [
+            "shine",
+            "shone",
+            "shone"
+        ]
+    },
+    {
+        "infinitive": "shoot",
+        "conjugatedForms": [
+            "shoot",
+            "shot",
+            "shot"
+        ]
+    },
+    {
+        "infinitive": "show",
+        "conjugatedForms": [
+            "show",
+            "showed",
+            "shown"
+        ]
+    },
+    {
+        "infinitive": "shut",
+        "conjugatedForms": [
+            "shut",
+            "shut",
+            "shut"
+        ]
+    },
+    {
+        "infinitive": "sing",
+        "conjugatedForms": [
+            "sing",
+            "sang",
+            "sung"
+        ]
+    },
+    {
+        "infinitive": "sink",
+        "conjugatedForms": [
+            "sink",
+            "sank",
+            "sunk"
+        ]
+    },
+    {
+        "infinitive": "sit",
+        "conjugatedForms": [
+            "sit",
+            "sat",
+            "sat"
+        ]
+    },
+    {
+        "infinitive": "sleep",
+        "conjugatedForms": [
+            "sleep",
+            "slept",
+            "slept"
+        ]
+    },
+    {
+        "infinitive": "slide",
+        "conjugatedForms": [
+            "slide",
+            "slid",
+            "slid"
+        ]
+    },
+    {
+        "infinitive": "speak",
+        "conjugatedForms": [
+            "speak",
+            "spoke",
+            "spoken"
+        ]
+    },
+    {
+        "infinitive": "spend",
+        "conjugatedForms": [
+            "spend",
+            "spent",
+            "spent"
+        ]
+    },
+    {
+        "infinitive": "spring",
+        "conjugatedForms": [
+            "spring",
+            "sprang",
+            "sprung"
+        ]
+    },
+    {
+        "infinitive": "stand",
+        "conjugatedForms": [
+            "stand",
+            "stood",
+            "stood"
+        ]
+    },
+    {
+        "infinitive": "stick",
+        "conjugatedForms": [
+            "stick",
+            "stuck",
+            "stuck"
+        ]
+    },
+    {
+        "infinitive": "swear",
+        "conjugatedForms": [
+            "swear",
+            "swore",
+            "sworn"
+        ]
+    },
+    {
+        "infinitive": "sweep",
+        "conjugatedForms": [
+            "sweep",
+            "swept",
+            "swept"
+        ]
+    },
+    {
+        "infinitive": "swim",
+        "conjugatedForms": [
+            "swim",
+            "swam",
+            "swum"
+        ]
+    },
+    {
+        "infinitive": "swing",
+        "conjugatedForms": [
+            "swing",
+            "swung",
+            "swung"
+        ]
+    },
+    {
+        "infinitive": "take",
+        "conjugatedForms": [
+            "take",
+            "took",
+            "taken"
+        ]
+    },
+    {
+        "infinitive": "teach",
+        "conjugatedForms": [
+            "teach",
+            "taught",
+            "taught"
+        ]
+    },
+    {
+        "infinitive": "tear",
+        "conjugatedForms": [
+            "tear",
+            "tore",
+            "torn"
+        ]
+    },
+    {
+        "infinitive": "tell",
+        "conjugatedForms": [
+            "tell",
+            "told",
+            "told"
+        ]
+    },
+    {
+        "infinitive": "think",
+        "conjugatedForms": [
+            "think",
+            "thought",
+            "thought"
+        ]
+    },
+    {
+        "infinitive": "throw",
+        "conjugatedForms": [
+            "throw",
+            "threw",
+            "thrown"
+        ]
+    },
+    {
+        "infinitive": "understand",
+        "conjugatedForms": [
+            "understand",
+            "understood",
+            "understood"
+        ]
+    },
+    {
+        "infinitive": "wake",
+        "conjugatedForms": [
+            "wake",
+            "woke",
+            "woken"
+        ]
+    },
+    {
+        "infinitive": "wear",
+        "conjugatedForms": [
+            "wear",
+            "wore",
+            "worn"
+        ]
+    },
+    {
+        "infinitive": "weave",
+        "conjugatedForms": [
+            "weave",
+            "wove",
+            "woven"
+        ]
+    },
+    {
+        "infinitive": "win",
+        "conjugatedForms": [
+            "win",
+            "won",
+            "won"
+        ]
+    },
+    {
+        "infinitive": "write",
+        "conjugatedForms": [
+            "write",
+            "wrote",
+            "written"
+        ]
+    }
+]
